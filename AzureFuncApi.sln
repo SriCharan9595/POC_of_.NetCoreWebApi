@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFuncApi", "AzureFuncApi.csproj", "{13D6AD95-E4E3-4715-B458-676799AE4FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFuncApiTest", "..\AzureFuncApiTest\AzureFuncApiTest.csproj", "{61838AB9-6D3E-46CE-8E55-B5AED5A2C94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D6AD95-E4E3-4715-B458-676799AE4FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D6AD95-E4E3-4715-B458-676799AE4FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D6AD95-E4E3-4715-B458-676799AE4FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D6AD95-E4E3-4715-B458-676799AE4FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61838AB9-6D3E-46CE-8E55-B5AED5A2C94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61838AB9-6D3E-46CE-8E55-B5AED5A2C94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61838AB9-6D3E-46CE-8E55-B5AED5A2C94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61838AB9-6D3E-46CE-8E55-B5AED5A2C94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE15DA3-B16F-4597-AEDD-5B805FFE13AA}
+	EndGlobalSection
+EndGlobal
